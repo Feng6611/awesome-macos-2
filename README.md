@@ -60,6 +60,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Utilities
 - [AltTab](https://alt-tab-macos.netlify.app/) - AltTab brings the power of Windows alt-tab to macOS. [![Open-Source Software][OSS Icon]](https://github.com/lwouis/alt-tab-macos)
+- [Command Reopen](https://commandreopen.com/) - Makes Cmd+Tab restore minimized and closed windows with zero permissions. [![Open-Source Software][OSS Icon]](https://github.com/Feng6611/mac-command-reopen)
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind. [![Open-Source Software][OSS Icon]](https://github.com/davunt/app-eraser)
